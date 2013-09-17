@@ -1,4 +1,3 @@
-grails.work.dir = "work"
 grails.project.groupId = "com.erumppe.portfolio"
 grails.mime.file.extensions = true
 grails.mime.use.accept.header = false
@@ -77,3 +76,7 @@ log4j = {
            'org.hibernate',
            'net.sf.ehcache.hibernate'
 }
+
+// Bootstrap configuration
+grails.plugins.twitterbootstrap.fixtaglib = true
+grails.plugins.twitterbootstrap.defaultBundle = 'bundle_bootstrap'
