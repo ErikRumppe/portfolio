@@ -14,7 +14,7 @@ class User {
     static constraints = {
         username blank: false, nullable: false, size: 5..15, matches: /[\S]+/, unique: true
         password blank: false, nullable: false, size: 5..15, matches: /[\S]+/
-        firstname password blank: false, nullable: false
-        lastname password blank: false, nullable: false        
+        firstname blank: false, nullable: false
+        lastname blank: false, nullable: false
     }
 }
