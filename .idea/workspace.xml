@@ -2,17 +2,373 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ed54849-331c-48e9-aa4f-818703c788ff" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/erumppe/portfolio/User.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/erumppe/portfolio/User.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/layouts/portfolio.gsp" afterPath="$PROJECT_DIR$/grails-app/views/layouts/portfolio.gsp" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\10af9f8bf0ccd1120b6fe4873a6b2c19cc41d048b012b5661fbb53b77b86c376.resolve" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1_closure10.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1_closure11.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1_closure12.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1_closure13.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1_closure14.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1_closure15.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1_closure16.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1_closure17.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1_closure18.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1_closure19.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources$_run_closure1_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\BootstrapResources.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\CacheGrailsPlugin$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\CacheGrailsPlugin$_closure1_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\CacheGrailsPlugin$_closure1_closure6_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\CacheGrailsPlugin$_closure1_closure6_closure8_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\CacheGrailsPlugin$_closure1_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\CacheGrailsPlugin$_closure1_closure7_closure10.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\CacheGrailsPlugin$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\CacheGrailsPlugin$_closure2_closure11.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\CacheGrailsPlugin$_closure2_closure12.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\CacheGrailsPlugin$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\CacheGrailsPlugin$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\CacheGrailsPlugin$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\CacheGrailsPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\CloudSupportGrailsPlugin$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\CloudSupportGrailsPlugin$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\CloudSupportGrailsPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\DatabaseSessionGrailsPlugin$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\DatabaseSessionGrailsPlugin$_closure1_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\DatabaseSessionGrailsPlugin$_closure1_closure3_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\DatabaseSessionGrailsPlugin$_closure1_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\DatabaseSessionGrailsPlugin$_closure1_closure4_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\DatabaseSessionGrailsPlugin$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\DatabaseSessionGrailsPlugin$_closure2_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\DatabaseSessionGrailsPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\DefaultCacheConfig$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\DefaultCacheConfig$_run_closure1_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\DefaultCacheConfig$_run_closure1_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\DefaultCacheConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\HerokuGrailsPlugin$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\HerokuGrailsPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\HibernateGrailsPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryConfig$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryPluginResources$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryPluginResources$_run_closure1_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryPluginResources$_run_closure1_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryPluginResources.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryResourceTagLib$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryResourceTagLib$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryResourceTagLib$_closure2_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryResourceTagLib$_closure2_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryResourceTagLib$_closure2_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryResourceTagLib$_closure2_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryResourceTagLib$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryResourceTagLib.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryService$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryService$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryService$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryService$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryTagLib$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryTagLib$_closure1_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryTagLib$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryTagLib$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryTagLib$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryTagLib$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JQueryTagLib.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JqueryGrailsPlugin$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JqueryGrailsPlugin$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JqueryGrailsPlugin$_closure2_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JqueryGrailsPlugin$_closure2_closure3_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\JqueryGrailsPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesBootStrap$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesBootStrap$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesBootStrap.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure1_closure10.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure1_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure2_closure11.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure2_closure11_closure13.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure2_closure11_closure13_closure14.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure2_closure11_closure13_closure14_closure15.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure2_closure11_closure13_closure14_closure15_closure16.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure2_closure12.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure2_closure12_closure17.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure2_closure12_closure17_closure18.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure2_closure12_closure17_closure18_closure19.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure4_closure20.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure4_closure21.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure4_closure22.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_handleChange_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_isResourceWeShouldProcess_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin$_triggerReload_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\ResourcesGrailsPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\TwitterBootstrapGrailsPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\BlockingCache.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\CacheBeanPostProcessor.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\CacheConfigArtefactHandler$CacheConfigGrailsClass.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\CacheConfigArtefactHandler$DefaultCacheConfigGrailsClass.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\CacheConfigArtefactHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\CacheConfiguration.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\CacheEvict.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\CachePut.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\CacheTagLib$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\CacheTagLib$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\CacheTagLib.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\Cacheable.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\ConfigBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\ConfigLoader$_sortConfigs_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\ConfigLoader.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\GrailsAnnotationCacheOperationSource$DefaultCacheKey.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\GrailsAnnotationCacheOperationSource.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\GrailsCache.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\GrailsCacheAdminService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\GrailsCacheManager.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\GrailsConcurrentMapCache.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\GrailsConcurrentMapCacheManager.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\GrailsValueWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\SerializableByteArrayOutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\SerializableOutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\Timer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\compiler\CacheTransformation.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\util\ClassUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\AlreadyGzippedException.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\ContentCacheParameters.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\GenericResponseWrapper$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\GenericResponseWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\Header$Type.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\Header.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\HttpDateFormatter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\PageInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\ProxyAwareMixedGrailsControllerHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\SerializableCookie.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\filter\AbstractFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\filter\CacheExpressionRootObject.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\filter\CacheOperationContext.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\filter\DefaultWebKeyGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\filter\ExpressionEvaluator.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\filter\FilterServletOutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\filter\LazyParamAwareEvaluationContext.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\filter\NoOpFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\filter\PageFragmentCachingFilter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\filter\PageFragmentCachingFilter$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\filter\PageFragmentCachingFilter$CacheStatus.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\filter\PageFragmentCachingFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\filter\WebKeyGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\filter\simple\MemoryBlockingCache.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\filter\simple\MemoryCacheConfiguration.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cache\web\filter\simple\MemoryPageFragmentCachingFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cloudsupport\AbstractCloudBeanPostprocessor$_fixRedis_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cloudsupport\AbstractCloudBeanPostprocessor.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cloudsupport\AbstractCloudTagLib$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cloudsupport\AbstractCloudTagLib.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\cloudsupport\AbstractMongoBeanConfigurer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\databasesession\DatabaseCleanupJob.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\databasesession\DatabaseCleanupService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\databasesession\GormPersisterService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\databasesession\InvalidatedSessionException.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\databasesession\PersistentSession$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\databasesession\PersistentSession.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\databasesession\PersistentSessionAttribute.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\databasesession\PersistentSessionAttributeValue$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\databasesession\PersistentSessionAttributeValue.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\databasesession\Persister.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\databasesession\SessionProxy$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\databasesession\SessionProxy$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\databasesession\SessionProxy$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\databasesession\SessionProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\databasesession\SessionProxyFilter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\databasesession\SessionProxyFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\heroku\AbstractMongoServiceInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\heroku\AbstractServiceInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\heroku\HerokuBeanPostprocessor.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\heroku\HerokuEnvironment$_isAvailable_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\heroku\HerokuEnvironment.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\heroku\HerokuMongoBeanConfigurer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\heroku\HerokuTagLib.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\heroku\MemcachedServiceInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\heroku\MongoHqServiceInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\heroku\MongoLabServiceInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\heroku\PostgresqlServiceInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\heroku\RabbitServiceInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\grails\plugin\heroku\RedisToGoServiceInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\codehaus\groovy\grails\plugins\jquery\JQueryConfig$_init_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\codehaus\groovy\grails\plugins\jquery\JQueryConfig$_init_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\codehaus\groovy\grails\plugins\jquery\JQueryConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\codehaus\groovy\grails\plugins\jquery\JQueryProvider$_doRemoteFunction_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\codehaus\groovy\grails\plugins\jquery\JQueryProvider$_doRemoteFunction_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\codehaus\groovy\grails\plugins\jquery\JQueryProvider$_doRemoteFunction_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\codehaus\groovy\grails\plugins\jquery\JQueryProvider$_doRemoteFunction_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\codehaus\groovy\grails\plugins\jquery\JQueryProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\AggregatedResourceMeta$_buildAggregateResource_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\AggregatedResourceMeta$_buildAggregateResource_closure3_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\AggregatedResourceMeta$_containsResource_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\AggregatedResourceMeta$_isDirty_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\AggregatedResourceMeta.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\BaseUrlResourceMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\BundleResourceMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\CSSBundleResourceMeta.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\CSSLinkProcessor$_process_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\CSSLinkProcessor.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\CSSPreprocessorResourceMapper$_map_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\CSSPreprocessorResourceMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\CSSRewriterResourceMapper$_map_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\CSSRewriterResourceMapper$_map_closure1_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\CSSRewriterResourceMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\DevModeSanityFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\JavaScriptBundleResourceMeta.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ProcessingFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceMeta$_reset_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceMeta.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceModule$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceModule$_getRequiredDispositions_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceModule$_newResourceFromArgs_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceModule.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_afterPropertiesSet_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_afterPropertiesSet_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_canProcessLegacyResource_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_canProcessLegacyResource_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_defineModuleFromBuilder_closure16.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_dumpResources_closure21.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_dumpResources_closure21_closure36.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_dumpResources_closure21_closure37.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_dumpResources_closure22.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_dumpStats_closure20.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_dumpStats_closure20_closure35.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_findSyntheticResourceById_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_getConfigParamOrDefault_closure23.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_getResourceMetaForURI_closure10.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_getResourceMetaForURI_closure10_closure28.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_getServletContext_closure24.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_loadModules_closure17.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_loadModules_closure18.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_loadModules_closure18_closure31.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_loadModules_closure18_closure32.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_loadModules_closure18_closure32_closure33.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_loadModules_closure18_closure32_closure34.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_loadModules_closure19.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_makeFileSystemPathFromURI_closure11.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_prepareResourceBatch_closure13.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_prepareResourceBatch_closure14.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_prepareResourceBatch_closure14_closure29.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_prepareResourceBatch_closure14_closure30.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_prepareResourceBatch_closure15.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_prepareSingleDeclaredResource_closure12.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_updateDependencyOrder_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_updateDependencyOrder_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_updateDependencyOrder_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_updateDependencyOrder_closure3_closure25.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_updateDependencyOrder_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_updateDependencyOrder_closure4_closure26.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor$_updateDependencyOrder_closure4_closure26_closure27.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessor.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceProcessorBatch.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$__clinit__closure14.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$__clinit__closure15.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$__clinit__closure16.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$__clinit__closure17.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$_closure10.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$_closure11.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$_closure11_closure20.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$_closure1_closure18.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$_closure5_closure19.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$_resolveResourceAndURI_closure13.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib$_writeAttrs_closure12.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\ResourceTagLib.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\URLUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\MapperPhase.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMapper$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMapper$_getDefaultExcludes_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMapper$_getDefaultIncludes_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMapper$_getExcludes_closure10.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMapper$_getExcludingPattern_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMapper$_getIncludes_closure11.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMapper$_getIncludingPattern_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMapper$_getName_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMapper$_getOperation_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMapper$_getPhase_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMapper$_getPriority_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMappersFactory$_createResourceMappers_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMappersFactory$_createResourceMappers_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMappersFactory$_createResourceMappers_closure2_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMappersFactory$_createResourceMappers_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMappersFactory$_createResourceMappers_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMappersFactory$_createResourceMappers_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMappersFactory$_createResourceMappers_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\mapper\ResourceMappersFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\module\ModuleBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\module\ModuleDeclarationsFactory$_getModuleDeclarations_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\module\ModuleDeclarationsFactory$_getModuleDeclarations_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\module\ModuleDeclarationsFactory$_getModuleDeclarations_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\module\ModuleDeclarationsFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\module\ModulesBuilder$_invokeMethod_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\module\ModulesBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\util\HalfBakedLegacyLinkGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\util\ResourceMetaStore$_addResource_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resource\util\ResourceMetaStore.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resources\artefacts\AbstractResourcesArtefactHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resources\artefacts\DefaultResourceMapperClass.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resources\artefacts\DefaultResourcesClass.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resources\artefacts\ResourceMapperArtefactHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resources\artefacts\ResourceMapperClass.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resources\artefacts\ResourcesArtefactHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\grails\plugin\resources\artefacts\ResourcesClass.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\groovydev\TwitterBootstrapTagLib$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\groovydev\TwitterBootstrapTagLib$_closure1_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\groovydev\TwitterBootstrapTagLib$_closure1_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\groovydev\TwitterBootstrapTagLib$_closure1_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\groovydev\TwitterBootstrapTagLib$_closure1_closure4_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\groovydev\TwitterBootstrapTagLib$_closure1_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\groovydev\TwitterBootstrapTagLib$_closure1_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\plugin-classes\org\groovydev\TwitterBootstrapTagLib.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\grails-app\i18n\messages.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\grails-app\i18n\messages_cs_CZ.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\grails-app\i18n\messages_da.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\grails-app\i18n\messages_de.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\grails-app\i18n\messages_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\grails-app\i18n\messages_fr.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\grails-app\i18n\messages_it.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\grails-app\i18n\messages_ja.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\grails-app\i18n\messages_nb.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\grails-app\i18n\messages_nl.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\grails-app\i18n\messages_pl.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\grails-app\i18n\messages_pt_BR.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\grails-app\i18n\messages_pt_PT.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\grails-app\i18n\messages_ru.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\grails-app\i18n\messages_sv.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\grails-app\i18n\messages_th.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\grails-app\i18n\messages_zh_CN.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\plugins\jquery-1.8.3\grails-app\i18n\messages.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\plugins\resources-1.2.RC2\grails-app\i18n\messages.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\plugins\twitter-bootstrap-3.0.0\grails-app\i18n\messages.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\resources\web.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.iml" afterPath="$PROJECT_DIR$/portfolio.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
-    <file path="/Dummy.txt" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379527852369" ignored="false" />
+    <file path="/Dummy.txt" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379530134814" ignored="false" />
+    <file path="/a.dummy" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379530132512" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +383,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -61,7 +418,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -74,19 +430,17 @@
       <file leaf-file-name="portfolio.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/portfolio.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="61" selection-start="383" selection-end="383" vertical-scroll-proportion="-4.576923">
+            <state line="14" column="24" selection-start="476" selection-end="476" vertical-scroll-proportion="-9.153846">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.gsp" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
+      <file leaf-file-name="BuildConfig.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
-              </folding>
+            <state line="36" column="40" selection-start="941" selection-end="941" vertical-scroll-proportion="0.6386404">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,6 +465,8 @@
       <list>
         <option value="$PROJECT_DIR$/grails-app/domain/com/erumppe/portfolio/User.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/layouts/portfolio.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
       </list>
     </option>
   </component>
@@ -159,8 +515,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="Grails.Grails:portfolio">
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
@@ -256,7 +612,7 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -267,8 +623,8 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32954547" sideWeight="0.6700855" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -341,7 +697,14 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/portfolio.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="61" selection-start="383" selection-end="383" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -358,19 +721,24 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/portfolio.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="61" selection-start="383" selection-end="383" vertical-scroll-proportion="-4.576923">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/portfolio.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
-          </folding>
+        <state line="14" column="24" selection-start="476" selection-end="476" vertical-scroll-proportion="-9.153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="40" selection-start="941" selection-end="941" vertical-scroll-proportion="0.6386404">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -381,7 +749,7 @@
         <entry key="portfolio">
           <value>
             <GrailsSettings>
-              <option name="buildConfigCrc" value="-1353949523" />
+              <option name="buildConfigCrc" value="-2053101895" />
               <option name="pluginDependenciesCrc" value="-1492076900" />
               <option name="properties">
                 <map>
