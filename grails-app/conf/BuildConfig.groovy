@@ -22,7 +22,7 @@ grails.project.dependency.resolution = {
     }
 
     dependencies {
-    	// runtime 'mysql:mysql-connector-java:5.1.22'
+    	runtime 'mysql:mysql-connector-java:5.1.22'
     
     	test "org.spockframework:spock-grails-support:0.7-groovy-2.0"
     }
