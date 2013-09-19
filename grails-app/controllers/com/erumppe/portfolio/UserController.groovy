@@ -95,10 +95,11 @@ class UserController {
         }
         else {
             def user = new User()
-            user.properties['username', 'password', 'firstname', 'lastname'] = params
+            user.properties['username', 'password', 'firstname', 'lastname'] = urc
+            user.enabled = true
 
             if (user.validate() && user.save()) {
-                session.user = user
+                //session.user = user
                 flash.message = "Welcome aboard ${user.firstname} ${user.lastname}!"
                 redirect controller:"store"
             }

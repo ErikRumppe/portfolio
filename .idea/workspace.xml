@@ -2,31 +2,168 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ed54849-331c-48e9-aa4f-818703c788ff" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\grails\portfolio\web-app\css\errors.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\grails\portfolio\web-app\css\main.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\grails\portfolio\web-app\css\mobile.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-build-classes/TomcatGrailsPlugin.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-build-classes/TomcatGrailsPlugin.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/ApplicationResources.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/ApplicationResources.groovy" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\1632d25d273359b8e8368fdcf98dea50cc41d048b012b5661fbb53b77b86c376.resolve" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\tomcat\work\Tomcat\localhost\portfolio\grails-resources\css\errors.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\tomcat\work\Tomcat\localhost\portfolio\grails-resources\css\main.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\tomcat\work\Tomcat\localhost\portfolio\grails-resources\css\mobile.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\tomcat\work\Tomcat\localhost\portfolio\grails-resources\images\apple-touch-icon-retina.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\tomcat\work\Tomcat\localhost\portfolio\grails-resources\images\apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\tomcat\work\Tomcat\localhost\portfolio\grails-resources\images\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\tomcat\work\Tomcat\localhost\portfolio\grails-resources\images\grails_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\tomcat\work\Tomcat\localhost\portfolio\grails-resources\images\skin\database_add.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\tomcat\work\Tomcat\localhost\portfolio\grails-resources\images\skin\database_delete.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\tomcat\work\Tomcat\localhost\portfolio\grails-resources\images\skin\database_edit.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\tomcat\work\Tomcat\localhost\portfolio\grails-resources\images\skin\database_save.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\tomcat\work\Tomcat\localhost\portfolio\grails-resources\images\skin\database_table.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\tomcat\work\Tomcat\localhost\portfolio\grails-resources\images\skin\exclamation.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\tomcat\work\Tomcat\localhost\portfolio\grails-resources\images\skin\house.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\tomcat\work\Tomcat\localhost\portfolio\grails-resources\images\skin\information.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\tomcat\work\Tomcat\localhost\portfolio\grails-resources\images\skin\sorted_asc.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\tomcat\work\Tomcat\localhost\portfolio\grails-resources\images\skin\sorted_desc.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\grails\portfolio\work\projects\portfolio\tomcat\work\Tomcat\localhost\portfolio\grails-resources\images\spinner.gif" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/cloudsupport/AbstractCloudBeanPostprocessor.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/cloudsupport/AbstractCloudBeanPostprocessor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/cloudsupport/AbstractCloudTagLib.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/cloudsupport/AbstractCloudTagLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/cloudsupport/AbstractMongoBeanConfigurer.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/cloudsupport/AbstractMongoBeanConfigurer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/AbstractMongoServiceInfo.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/AbstractMongoServiceInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/AbstractServiceInfo.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/AbstractServiceInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/AggregatedResourceMeta.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/AggregatedResourceMeta.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/BaseUrlResourceMapper.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/BaseUrlResourceMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/formfields/BeanPropertyAccessorFactory.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/formfields/BeanPropertyAccessorFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/formfields/BeanPropertyAccessorImpl.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/formfields/BeanPropertyAccessorImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/BootstrapResources.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/BootstrapResources.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/BundleResourceMapper.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/BundleResourceMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/CSSBundleResourceMeta.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/CSSBundleResourceMeta.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/CSSLinkProcessor.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/CSSLinkProcessor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/CSSPreprocessorResourceMapper.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/CSSPreprocessorResourceMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/CSSRewriterResourceMapper.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/CSSRewriterResourceMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/CacheGrailsPlugin.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/CacheGrailsPlugin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/cache/CacheTagLib.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/cache/CacheTagLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/util/ClosureInvokingScript.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/util/ClosureInvokingScript.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/CloudSupportGrailsPlugin.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/CloudSupportGrailsPlugin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/cache/ConfigBuilder.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/cache/ConfigBuilder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/config/ConfigBuilder.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/config/ConfigBuilder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/cache/ConfigLoader.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/cache/ConfigLoader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/config/ConfigOptionsBuilder.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/config/ConfigOptionsBuilder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/ConventionsImpl.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/ConventionsImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/DSLBlockCommand.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/DSLBlockCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/DSLCallCommand.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/DSLCallCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/DSLCommand.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/DSLCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/DSLEvaluator.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/DSLEvaluator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/DSLGetValueCommand.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/DSLGetValueCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/DSLNamedArgsBlockCommand.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/DSLNamedArgsBlockCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/DSLNamedArgsCallCommand.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/DSLNamedArgsCallCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/DSLSetValueCommand.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/DSLSetValueCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/databasesession/DatabaseCleanupJob.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/databasesession/DatabaseCleanupJob.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/databasesession/DatabaseCleanupService.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/databasesession/DatabaseCleanupService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/DatabaseSessionGrailsPlugin.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/DatabaseSessionGrailsPlugin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/DefaultCacheConfig.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/DefaultCacheConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/DevModeSanityFilter.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/DevModeSanityFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/events/EventDefinition.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/events/EventDefinition.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/events/EventsImpl.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/events/EventsImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/FieldsGrailsPlugin.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/FieldsGrailsPlugin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/formfields/FormFieldsTagLib.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/formfields/FormFieldsTagLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/formfields/FormFieldsTemplateService.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/formfields/FormFieldsTemplateService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/databasesession/GormPersisterService.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/databasesession/GormPersisterService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/events/dispatcher/GormTopicSupport1X.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/events/dispatcher/GormTopicSupport1X.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/events/dispatcher/GormTopicSupport2X.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/events/dispatcher/GormTopicSupport2X.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/cache/GrailsCacheAdminService.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/cache/GrailsCacheAdminService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/util/HalfBakedLegacyLinkGenerator.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/util/HalfBakedLegacyLinkGenerator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/HerokuBeanPostprocessor.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/HerokuBeanPostprocessor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/HerokuEnvironment.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/HerokuEnvironment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/HerokuGrailsPlugin.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/HerokuGrailsPlugin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/HerokuMongoBeanConfigurer.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/HerokuMongoBeanConfigurer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/HerokuTagLib.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/HerokuTagLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/HibernateGrailsPlugin.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/HibernateGrailsPlugin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/injection/InjectedMethod.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/injection/InjectedMethod.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/injection/InjectionBuilder.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/injection/InjectionBuilder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/injection/InjectionBuilderArtefactTypeDelegate.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/injection/InjectionBuilderArtefactTypeDelegate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/injection/InjectionBuilderMethodDelegate.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/injection/InjectionBuilderMethodDelegate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/injection/InjectionImpl.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/injection/InjectionImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/JQueryConfig.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/JQueryConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryConfig.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/JQueryPluginResources.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/JQueryPluginResources.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/JQueryResourceTagLib.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/JQueryResourceTagLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/JQueryService.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/JQueryService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/JQueryTagLib.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/JQueryTagLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/JavaScriptBundleResourceMeta.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/JavaScriptBundleResourceMeta.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/JqueryGrailsPlugin.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/JqueryGrailsPlugin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/mapper/MapperPhase.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/mapper/MapperPhase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/MemcachedServiceInfo.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/MemcachedServiceInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/module/ModuleBuilder.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/module/ModuleBuilder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/module/ModuleDeclarationsFactory.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/module/ModuleDeclarationsFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/module/ModulesBuilder.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/module/ModulesBuilder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/MongoHqServiceInfo.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/MongoHqServiceInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/MongoLabServiceInfo.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/MongoLabServiceInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/navigation/NavigationImpl.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/navigation/NavigationImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/navigation/NavigationItem.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/navigation/NavigationItem.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/navigation/NavigationScope.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/navigation/NavigationScope.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/NavigationTagLib.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/NavigationTagLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/security/NotPermittedException.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/security/NotPermittedException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/databasesession/PersistentSession.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/databasesession/PersistentSession.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/databasesession/PersistentSessionAttribute.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/databasesession/PersistentSessionAttribute.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/databasesession/PersistentSessionAttributeValue.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/databasesession/PersistentSessionAttributeValue.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/PlatformCoreBootStrap.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/PlatformCoreBootStrap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/PlatformCoreFilters.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/PlatformCoreFilters.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/PlatformCoreGrailsPlugin.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/PlatformCoreGrailsPlugin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/PlatformCoreResources.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/PlatformCoreResources.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/PlatformCoreUrlMappings.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/PlatformCoreUrlMappings.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/PlatformTagLib.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/PlatformTagLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/controllers/PlatformToolsController.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/controllers/PlatformToolsController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/config/PluginConfigurationEntry.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/config/PluginConfigurationEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/config/PluginConfigurationFactory.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/config/PluginConfigurationFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/config/PluginConfigurationImpl.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/config/PluginConfigurationImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/util/PluginUtils.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/util/PluginUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/PostgresqlServiceInfo.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/PostgresqlServiceInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/ProcessingFilter.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/ProcessingFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/util/PropertyNamespacer.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/util/PropertyNamespacer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/formfields/PropertyPathAccessor.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/formfields/PropertyPathAccessor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/RabbitServiceInfo.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/RabbitServiceInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/RedisToGoServiceInfo.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/grails/plugin/heroku/RedisToGoServiceInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/mapper/ResourceMapper.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/mapper/ResourceMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/mapper/ResourceMappersFactory.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/mapper/ResourceMappersFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/ResourceMeta.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/ResourceMeta.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/util/ResourceMetaStore.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/util/ResourceMetaStore.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/ResourceModule.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/ResourceModule.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/ResourceProcessor.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/ResourceProcessor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/ResourceProcessorBatch.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/ResourceProcessorBatch.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/ResourceTagLib.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/ResourceTagLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/ResourcesBootStrap.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/ResourcesBootStrap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/ResourcesGrailsPlugin.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/ResourcesGrailsPlugin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/security/SecurityImpl.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/security/SecurityImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/SecurityTagLib.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/SecurityTagLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/StandardDSLBuilder.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/StandardDSLBuilder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/StandardDSLDelegate.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/StandardDSLDelegate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/SystemTagLib.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/SystemTagLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/util/TagLibUtils.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/util/TagLibUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/TwitterBootstrapGrailsPlugin.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/TwitterBootstrapGrailsPlugin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/groovydev/TwitterBootstrapTagLib.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/groovydev/TwitterBootstrapTagLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/URLUtils.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/resource/URLUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/ui/UiConstants.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/ui/UiConstants.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/ui/UiExtensions.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/ui/UiExtensions.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/UiExtensionsTagLib.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/UiExtensionsTagLib.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/UnsupportedDSLOperationException.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/conventions/UnsupportedDSLOperationException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/util/ViewCallbackDelegate.class" afterPath="$PROJECT_DIR$/work/projects/portfolio/plugin-classes/org/grails/plugin/platform/util/ViewCallbackDelegate.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/index.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/tomcat/work/Tomcat/localhost/portfolio/grails-resources/css/main.css" afterPath="$PROJECT_DIR$/work/projects/portfolio/tomcat/work/Tomcat/localhost/portfolio/grails-resources/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/i18n/messages.properties" afterPath="$PROJECT_DIR$/grails-app/i18n/messages.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/Config.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/com/erumppe/portfolio/User.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/com/erumppe/portfolio/User.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/com/erumppe/portfolio/UserController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/com/erumppe/portfolio/UserController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/store/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/store/index.gsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio-grailsPlugins.iml" afterPath="$PROJECT_DIR$/portfolio-grailsPlugins.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.iml" afterPath="$PROJECT_DIR$/portfolio.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/projects/portfolio/resources/web.xml" afterPath="$PROJECT_DIR$/work/projects/portfolio/resources/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
-    <file path="/Dummy.txt" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379606626599" ignored="false" />
-    <file path="/a.dummy" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379606615199" ignored="false" />
+    <file path="/Dummy.txt" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379622945167" ignored="false" />
+    <file path="/a.dummy" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379622902060" ignored="false" />
     <file path="/index.gsp" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379531983541" ignored="false" />
     <file path="/ApplicationResources.groovy" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379530825021" ignored="false" />
     <file path="/store.gsp" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379531813551" ignored="false" />
-    <file path="$PROJECT_DIR$/test/unit/com/erumppe/portfolio/UserControllerSpec.groovy" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379532082962" ignored="false" />
-    <file path="/UserController.groovy" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379621862195" ignored="false" />
+    <file path="/UserController.groovy" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379627362745" ignored="false" />
     <file path="/register.gsp" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379616714503" ignored="false" />
     <file path="/_field.gsp" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379606957202" ignored="false" />
     <file path="/create.gsp" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379607014865" ignored="false" />
@@ -38,7 +175,7 @@
     <file path="/_welcome.gsp" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379619864278" ignored="false" />
     <file path="/StoreController.groovy" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379619980806" ignored="false" />
     <file path="$PROJECT_DIR$/work/projects/portfolio/tomcat/work/Tomcat/localhost/portfolio/grails-resources/plugins/twitter-bootstrap-3.0.0/css/bootstrap.css" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379620917138" ignored="false" />
-    <file path="$PROJECT_DIR$/work/projects/portfolio/resources/web.xml" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379621655409" ignored="false" />
+    <file path="/SSUserRole.groovy" changelist="9ed54849-331c-48e9-aa4f-818703c788ff" time="1379623947875" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,11 +251,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/grails-app/views/layouts/store.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/store/index.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/user/create.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/_fields/default/_field.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/_fields/default/_input.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/_fields/user/password/_input.gsp" />
         <option value="$PROJECT_DIR$/web-app/css/store.css" />
         <option value="$PROJECT_DIR$/grails-app/i18n/messages.properties" />
@@ -127,9 +259,14 @@
         <option value="$PROJECT_DIR$/grails-app/views/user/login.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/user/templates/_login_box.gsp" />
         <option value="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/com/erumppe/portfolio/UserController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/store/_welcome.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/domain/com/erumppe/portfolio/SSUser.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/com/erumppe/portfolio/SSUserRole.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/store/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/domain/com/erumppe/portfolio/User.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/com/erumppe/portfolio/UserController.groovy" />
       </list>
     </option>
   </component>
@@ -192,6 +329,15 @@
     </key>
   </component>
   <component name="RunManager" selected="Grails.Grails:portfolio">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="C:\grails\portfolio" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <module name="" />
       <setting name="vmparams" value="" />
@@ -284,7 +430,7 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -370,16 +516,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grails-app/i18n/messages_es.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="ResourceBundle">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/i18n/messages.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="81" selection-start="2368" selection-end="2368" vertical-scroll-proportion="0.8809981">
@@ -418,29 +554,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="8" selection-start="595" selection-end="595" vertical-scroll-proportion="0.79532164">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/erumppe/portfolio/UserController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="5" selection-start="3908" selection-end="3908" vertical-scroll-proportion="0.56116503">
-          <folding>
-            <element signature="n#!!block;n#index#0;n#!!block;n#UserController#0" expanded="false" />
-            <element signature="n#!!block;n#list#0;n#!!block;n#UserController#0" expanded="false" />
-            <element signature="n#!!block;n#show#0;n#!!block;n#UserController#0" expanded="false" />
-            <element signature="n#!!block;n#edit#0;n#!!block;n#UserController#0" expanded="false" />
-            <element signature="n#!!block;n#update#0;n#!!block;n#UserController#0" expanded="false" />
-            <element signature="n#!!block;n#delete#0;n#!!block;n#UserController#0" expanded="false" />
-            <element signature="n#!!block;n#register#0;n#!!block;n#UserController#0" expanded="false" />
-            <element signature="n#!!block;n#save#0;n#!!block;n#UserController#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web-app/css/store.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="86" column="20" selection-start="1581" selection-end="1581" vertical-scroll-proportion="0.69588554">
@@ -462,27 +575,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/user/login.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="3" selection-start="195" selection-end="195" vertical-scroll-proportion="0.3">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/user/templates/_login_box.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="71" selection-start="679" selection-end="679" vertical-scroll-proportion="0.4">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/store/index.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="9" selection-start="272" selection-end="272" vertical-scroll-proportion="0.4">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/store/_welcome.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="6" selection-start="767" selection-end="767" vertical-scroll-proportion="0.56666666">
@@ -490,9 +582,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/erumppe/portfolio/Role.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0665362">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="89" selection-start="3418" selection-end="3418" vertical-scroll-proportion="0.78711987">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="71" selection-start="1255" selection-end="1255" vertical-scroll-proportion="0.7567084">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/projects/portfolio/plugins/spring-security-core-1.2.7.3/grails-app/services/grails/plugins/springsecurity/SpringSecurityService.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="203" column="80" selection-start="6604" selection-end="6604" vertical-scroll-proportion="0.7602862">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/erumppe/portfolio/UserController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="23" selection-start="4501" selection-end="4501" vertical-scroll-proportion="0.8097015">
+          <folding>
+            <element signature="n#!!block;n#index#0;n#!!block;n#UserController#0" expanded="false" />
+            <element signature="n#!!block;n#list#0;n#!!block;n#UserController#0" expanded="false" />
+            <element signature="n#!!block;n#show#0;n#!!block;n#UserController#0" expanded="false" />
+            <element signature="n#!!block;n#edit#0;n#!!block;n#UserController#0" expanded="false" />
+            <element signature="n#!!block;n#update#0;n#!!block;n#UserController#0" expanded="false" />
+            <element signature="n#!!block;n#delete#0;n#!!block;n#UserController#0" expanded="false" />
+            <element signature="n#!!block;n#register#0;n#!!block;n#UserController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/store/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="216" selection-end="216" vertical-scroll-proportion="0.36666667">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/com/erumppe/portfolio/User.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="42" selection-start="512" selection-end="512" vertical-scroll-proportion="0.6320939">
+        <state line="37" column="8" selection-start="829" selection-end="829" vertical-scroll-proportion="0.40117416">
           <folding />
         </state>
       </provider>
@@ -507,8 +652,8 @@
         <entry key="portfolio">
           <value>
             <GrailsSettings>
-              <option name="buildConfigCrc" value="-2053101895" />
-              <option name="pluginDependenciesCrc" value="1549874193" />
+              <option name="buildConfigCrc" value="-1921764726" />
+              <option name="pluginDependenciesCrc" value="-1795796751" />
               <option name="properties">
                 <map>
                   <entry key="grails.global.plugins.dir" value="work\global-plugins" />

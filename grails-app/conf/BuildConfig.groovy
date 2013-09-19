@@ -35,7 +35,9 @@ grails.project.dependency.resolution = {
         compile ":fields:1.3"
    		compile ':heroku:1.0.1'
         compile ":platform-core:1.0.RC5"
+        compile ":spring-security-core:1.2.7.3"
    		compile ":twitter-bootstrap:3.0.0"
+        compile ":webxml:1.4.1"
    		
         runtime ":hibernate:$grailsVersion"
         runtime ":jquery:1.8.3"
